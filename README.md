@@ -6,9 +6,9 @@ This file designates the contents of this project. It delivers directions on how
 This is the contents of this Readne file.
 
 
-1- README.md        You are reasing now. 
-2- CODEBOOK.md      Describes the variables within the tidied dataset 
-3- run_analysis.R   Analysis function of the raw data 
+1. README.md        You are reasing now.
+2. CODEBOOK.md      Describes the variables within the tidied dataset.
+3. run_analysis.R   Analysis function of the raw data.
 
 ## Setup
 
@@ -24,5 +24,6 @@ Before running the script, the following has to be setup:
 To get the tidied data, please follow the following steps:
 
 1. Source the analysis function into R and run the function.
-2. 
+2. Once the function has completed running, you will see two output files - "tidied_data.csv" and "tidied_data.txt" - in your working directory. These files contain the same data and are presented in CSV and TXT formats.
+
 
