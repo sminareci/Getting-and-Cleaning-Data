@@ -14,9 +14,15 @@ This is the contents of this Readne file.
 
 Before running the script, the following has to be setup:
 
-A -In an R Environment,
-B -Data would be downloaded in your enviroment, please make changes on your working directory,
-3 -Data has already been extracted to the your working directory of your R environment.
-4.It is assumed that the directory structure and file names of the extracted files follows that of the origin ZIP file. The only exception is that the parent directory name has been renamed to "UCI_HAR_Dataset".
+1. In an R Environment.
+2. Data would be downloaded in your enviroment, please make changes on your working directory.
+3. Data has already been extracted to the your working directory of your R environment.
+4. It is assumed that the directory structure and file names of the extracted files follows that of the origin ZIP file. The only exception is that the parent directory name has been renamed to "UCI_HAR_Dataset".
 
+# Steps
+
+To get the tidied data, please follow the following steps:
+
+1. Source the analysis function into R and run the function.
+2. 
 
