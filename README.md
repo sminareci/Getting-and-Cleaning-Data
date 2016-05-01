@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data
+## Read Me
 This document describes the contents of this repository. It will also provide instructions on how to run the R script to transform the raw data set dictated in the Course Project into a tidy dataset.
 
 References:
