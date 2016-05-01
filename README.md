@@ -1,10 +1,7 @@
 ## Read Me
-This document describes the contents of this repository. It will also provide instructions on how to run the R script to transform the raw data set dictated in the Course Project into a tidy dataset.
+This file designates the contents of this project. It delivers directions on how to run the R script to convert the raw data set in the Course Project into a tidy dataset.
 
-References:
-1.Getting and Cleaning Data Course Project Assignment Page.
-
-Contents
+# Contents
 
 This section describes the contents of this repository.
 
